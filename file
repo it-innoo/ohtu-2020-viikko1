@@ -1,1 +1,17 @@
-Tiedosto Yksi
+file:/home/jukka/.gitconfig	push.default=matching
+file:/home/jukka/.gitconfig	user.name=jahlgren
+file:/home/jukka/.gitconfig	user.email=jukka.ahlgren@gmail.com
+file:/home/jukka/.gitconfig	user.signingkey=82B4267B26D785A6
+file:/home/jukka/.gitconfig	credential.helper=cache
+file:/home/jukka/.gitconfig	gpg.program=gpg
+file:/home/jukka/.gitconfig	commit.gpgsign=true
+file:/home/jukka/.gitconfig	core.editor=vim
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=true
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	remote.origin.url=https://github.com/it-innoo/ohtu-2020-viikko1.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.master.remote=origin
+file:.git/config	branch.master.merge=refs/heads/master
+SissipaveOn9Vuotta
