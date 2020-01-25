@@ -6,4 +6,4 @@
 
 [![codecov](https://codecov.io/gh/it-innoo/ohtu-2020-viikko1/branch/master/graph/badge.svg)](https://codecov.io/gh/it-innoo/ohtu-2020-viikko1)
 
-[git@github.com:it-innoo/ohtu-2020-viikko1.git]
+git@github.com:it-innoo/ohtu-2020-viikko1.git
