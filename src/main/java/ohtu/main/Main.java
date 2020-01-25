@@ -1,11 +1,13 @@
-package ohtu.ohtuvarasto;
+package ohtu.main;
+
+import ohtu.ohtuvarasto.Varasto;
 
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(final String[] args) {
 
-        Varasto mehua = new Varasto(100.0);
-        Varasto olutta = new Varasto(100.0, 20.2);
+        final Varasto mehua = new Varasto(100.0);
+        final Varasto olutta = new Varasto(100.0, 20.2);
 
         System.out.println("Luonnin jälkeen:");
         System.out.println("Mehuvarasto: " + mehua);
