@@ -7,12 +7,11 @@
       <property name="fileNamePattern" value="Main.java$"/>
     </module>
 
-    
     <module name="TreeWalker">
       <module name="BooleanExpressionComplexity"/>
       <module name="CommentsIndentation"/>
       <module name="Indentation"/>
-      
+      <module name="LineLength"/>
       <module name="MethodLength">
         <property name="max" value="15"/>
         <property name="countEmpty" value="false"/>
