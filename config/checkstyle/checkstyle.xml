@@ -7,7 +7,6 @@
       <property name="fileNamePattern" value="Main.java$"/>
     </module>
 
-    
     <module name="TreeWalker">
       <module name="BooleanExpressionComplexity"/>
       <module name="CommentsIndentation"/>
